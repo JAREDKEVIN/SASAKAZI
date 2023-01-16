@@ -6,9 +6,11 @@ This is a web application that stores a database of members.
 
 #### Author
 Kipkemoi Jared Kevin
-![LOGIN](https://github.com/JAREDKEVIN/instagram-app/blob/924b02d9de5cf37a160e79119c8c7d81d1002e36/SCREENSHOTS/LOGIN.PNG)
+![EXISTING MEMBERS](https://github.com/JAREDKEVIN/SASAKAZI/blob/8b932534a597da8cbb43d2a6f460e26d81346c68/newapp/assets/existing%20members.PNG)
 
-![SIGN UP](https://github.com/JAREDKEVIN/instagram-app/blob/924b02d9de5cf37a160e79119c8c7d81d1002e36/SCREENSHOTS/SIGN%20in.PNG)
+![ADD MEMBER](https://github.com/JAREDKEVIN/SASAKAZI/blob/8b932534a597da8cbb43d2a6f460e26d81346c68/newapp/assets/add%20member.PNG)
+
+![UPDATE MEMBER](https://github.com/JAREDKEVIN/SASAKAZI/blob/8b932534a597da8cbb43d2a6f460e26d81346c68/newapp/assets/update%20members.PNG)
 
 
 ### Behaviour Driven Development (BDD)
