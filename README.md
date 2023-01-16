@@ -33,6 +33,7 @@ To run the application, open the cloned files in your terminal and run the follo
 * $ source virtual/bin/activate
 * $ curl https://bootstrap.pypa.io/get-pip.py | python
 * $ pip install -r requirements.txt
+* $ pip install gunicorn
 * $ python manage.py runserver
 
 
