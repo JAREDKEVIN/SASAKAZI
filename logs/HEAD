@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 c0ebeace7626cb4acb7b6a102d875518547403c5 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673892646 +0300	commit (initial): config:virtual environment
+c0ebeace7626cb4acb7b6a102d875518547403c5 6bb26c9f6153ef4eaceab8f2ff909bec764826e5 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673892851 +0300	commit (merge): pycache config
+6bb26c9f6153ef4eaceab8f2ff909bec764826e5 aed3bf57b6edc2f4892495a1d3d78219f4642b63 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673893613 +0300	commit: modify: cache files
+aed3bf57b6edc2f4892495a1d3d78219f4642b63 57df85121aa792971c56cad44b12ac3d53b752c5 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673895878 +0300	commit: vercel deploy configuartions
+57df85121aa792971c56cad44b12ac3d53b752c5 b2bb5de9bbb856776256d53b3e4c3cd6cf2dd272 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673895909 +0300	pull origin master --allow-unrelated-histories: Merge made by the 'ort' strategy.
+b2bb5de9bbb856776256d53b3e4c3cd6cf2dd272 8cd6f7694e01d0a5108067c1afd65c85eb8a3084 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673896698 +0300	commit: config:vercel
+8cd6f7694e01d0a5108067c1afd65c85eb8a3084 ccad4c2a759e4faf9a01c72f1b63a9a5821921ff JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673897051 +0300	pull origin master: Fast-forward
+ccad4c2a759e4faf9a01c72f1b63a9a5821921ff 3b251a58828e5b2c771dcb197b0593016f55cfed JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673897485 +0300	commit: config:vercel
+3b251a58828e5b2c771dcb197b0593016f55cfed 24e897ebd7e3582da910feb498c344b3ec573e85 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673902446 +0300	commit: static files
+24e897ebd7e3582da910feb498c344b3ec573e85 f68ccd9701fa5e191ceedcd1a94987c7e1ed6fd2 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673903176 +0300	commit: delete: vercel deployment
+f68ccd9701fa5e191ceedcd1a94987c7e1ed6fd2 6bb26c9f6153ef4eaceab8f2ff909bec764826e5 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673903293 +0300	checkout: moving from master to production
+6bb26c9f6153ef4eaceab8f2ff909bec764826e5 f68ccd9701fa5e191ceedcd1a94987c7e1ed6fd2 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673903312 +0300	merge master: Fast-forward
+f68ccd9701fa5e191ceedcd1a94987c7e1ed6fd2 fb723fc055040b501e5ef7c85d890719c32a57b5 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673903604 +0300	commit (merge): delete: vercel deployment
+fb723fc055040b501e5ef7c85d890719c32a57b5 f68ccd9701fa5e191ceedcd1a94987c7e1ed6fd2 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673903648 +0300	checkout: moving from production to master
+f68ccd9701fa5e191ceedcd1a94987c7e1ed6fd2 fb723fc055040b501e5ef7c85d890719c32a57b5 JAREDKEVIN <kevin.kipkemoi@student.moringaschool.com> 1673903672 +0300	merge production: Fast-forward
