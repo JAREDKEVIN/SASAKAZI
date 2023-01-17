@@ -6,6 +6,8 @@ This is a web application that stores a database of members.
 
 #### Author
 Kipkemoi Jared Kevin
+![AWS EC2]     (https://github.com/JAREDKEVIN/SASAKAZI/blob/e80d537287a361df7fd8260c595711fc9b4c702f/newapp/assets/ec2%20django.PNG)
+
 ![EXISTING MEMBERS](https://github.com/JAREDKEVIN/SASAKAZI/blob/8b932534a597da8cbb43d2a6f460e26d81346c68/newapp/assets/existing%20members.PNG)
 
 ![ADD MEMBER](https://github.com/JAREDKEVIN/SASAKAZI/blob/8b932534a597da8cbb43d2a6f460e26d81346c68/newapp/assets/add%20member.PNG)
