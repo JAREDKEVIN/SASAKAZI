@@ -2,11 +2,11 @@
 CRUD APPLICATION IN DJANGO
 
 ### Description
-This is a web application that stores a database of members. 
+This is a web application that stores a database of members. It is hosted on Amazon Web Services EC2 instance.
 
 #### Author
 Kipkemoi Jared Kevin
-![AWS EC2]     (https://github.com/JAREDKEVIN/SASAKAZI/blob/e80d537287a361df7fd8260c595711fc9b4c702f/newapp/assets/ec2%20django.PNG)
+![AWS EC2](https://github.com/JAREDKEVIN/SASAKAZI/blob/e80d537287a361df7fd8260c595711fc9b4c702f/newapp/assets/ec2%20django.PNG)
 
 ![EXISTING MEMBERS](https://github.com/JAREDKEVIN/SASAKAZI/blob/8b932534a597da8cbb43d2a6f460e26d81346c68/newapp/assets/existing%20members.PNG)
 
@@ -46,6 +46,7 @@ To run the application, open the cloned files in your terminal and run the follo
 * HTML5
 * CSS
 * Bootstrap5
+* AWS
 
 ### Bugs
 Feel free to add features and modify the _DELETE_ and _UPDATE_ buttons.
